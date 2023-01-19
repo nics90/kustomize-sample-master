@@ -2,6 +2,6 @@ commonLabels:
   app: demo
 
 resources:
+- configMap.yaml
 - deployment.yaml
 - service.yaml
-- configMap.yaml
